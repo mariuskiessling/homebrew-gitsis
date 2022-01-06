@@ -1,8 +1,8 @@
 class Gitsis < Formula
   desc "SSH identity selector for your Git commands"
   homepage "https://github.com/mariuskiessling/gitsis"
-  url "https://github.com/mariuskiessling/gitsis/releases/download/v1.0.0/gitsis"
-  sha256 "a093551dfa53f0bb111b0c41349700f8af766ec0c37b0efc84a51d21ff366800"
+  url "https://github.com/mariuskiessling/gitsis/releases/download/v1.0.1/gitsis"
+  sha256 "3396a906df53ce2b24bec6d27c2b89078792a1e2bc098e1df8ee0e9d9864c9ec"
   license "MIT"
 
   bottle do
